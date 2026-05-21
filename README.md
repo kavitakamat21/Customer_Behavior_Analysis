@@ -1,4 +1,4 @@
-# Customer_Behavior_Analysis
+# 🔍Customer_Behavior_Analysis
 # 👥 Customer_Behavior_Analysis :-
 
 📊 Analyzing Customer_Behavior_Shopping sales data to uncover customer preferences, sales trends, Reveneue trends, prduts, customer segments and insights using SQL & data visualization tools :-
@@ -45,6 +45,15 @@ In the e-commerce industry, companies track every customer interaction:
 - Canva   Customer Analaysis PPT for project Overview using 
 - GitHub – For version control & collaboration
 
+### Bsuiness KPI :-
+🧠 Customer Behavior Analysis
+├── 👥 Customer Segmentation
+├── 💰 Revenue Analysis
+├── 📈 Sales Performance
+├── 🔄 Customer Retention
+├── 🛍️ Product Demand
+├── 💳 Payment Behavior
+└── 📅 Seasonal Trends
   
 ## 📌 Project Overview
 This project explores Customer_Behavior_Analysis sales data using Pyhton to clean raw data and transform it meaaningful data to get insights by using SQL:
