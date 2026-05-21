@@ -47,13 +47,13 @@ In the e-commerce industry, companies track every customer interaction:
 
 ### Bsuiness KPI :-
 🧠 Customer Behavior Analysis
-├── 👥 Customer Segmentation
-├── 💰 Revenue Analysis
-├── 📈 Sales Performance
-├── 🔄 Customer Retention
-├── 🛍️ Product Demand
-├── 💳 Payment Behavior
-└── 📅 Seasonal Trends
+- 👥 Customer Segmentation
+-  💰 Revenue Analysis
+- � Sales Performance
+- 🔄 Customer Retention
+-  🛍️ Product Demand
+-  💳 Payment Behavior
+-  � Seasonal Trends
   
 ## 📌 Project Overview
 This project explores Customer_Behavior_Analysis sales data using Pyhton to clean raw data and transform it meaaningful data to get insights by using SQL:
